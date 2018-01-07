@@ -1,8 +1,10 @@
 package com.hao.singleton;
 
 /**
+ * @author hao
  * 单例模式--懒汉式
  */
+@SuppressWarnings("ALL")
 public class Singleton2 {
     private static Singleton2 instance ;
     private Singleton2(){};
