@@ -1,4 +1,4 @@
-package com.hao.singleton;
+package com.hao.creational.singleton;
 
 /**
  * @author hao

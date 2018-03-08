@@ -1,4 +1,4 @@
-package com.hao.singleton;
+package com.hao.creational.singleton;
 
 /**
  * 单例模式--枚举式,(效率高,jvm提供保障线程安全,没有反射漏洞,但不能实现懒加载)

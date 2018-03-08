@@ -1,4 +1,4 @@
-package com.hao.singleton;
+package com.hao.creational.singleton;
 
 /**
  * 单例模式--静态内部类实现懒加载
